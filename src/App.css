@@ -1,0 +1,12 @@
+.title {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+#title{
+  float: right;
+   text-align: center; 
+    padding: 25px;
+    margin: 25px;
+   
+}
